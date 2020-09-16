@@ -1,0 +1,12 @@
+/**/.gitignore
+!/.gitignore
+/**/.metadata
+/**/.mvn
+/**/.settings
+/**/target
+/**/.classpath
+/**/.factorypath
+/**/.project
+/**/.HELP.md
+/**/mvnw
+/**/mvnw.cmd
