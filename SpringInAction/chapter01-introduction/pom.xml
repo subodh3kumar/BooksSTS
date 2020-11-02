@@ -6,13 +6,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.3.0.RELEASE</version>
+		<version>2.3.5.RELEASE</version>
 		<relativePath />
 	</parent>
 	<groupId>workshop</groupId>
 	<artifactId>chapter01-introduction</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>chapter01-introduction</name>
+	<description>Spring Basic</description>
 
 	<properties>
 		<java.version>11</java.version>
